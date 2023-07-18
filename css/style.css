@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #434455;
+  color: #434455; 
   background-color: #ffffff;
 }
 :root {
@@ -9,7 +9,7 @@ body {
 /* header */
 .link-logo {
   color: var(--iris, #4d5ae5);
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
