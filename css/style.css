@@ -109,6 +109,9 @@ body {
 .humenone {
   background-color: #ffffff;
 }
+.hsectionfour {
+  letter-spacing: 0.02em;  
+}
 /* footer */
 .footer {
   background-color: #2e2f42;
