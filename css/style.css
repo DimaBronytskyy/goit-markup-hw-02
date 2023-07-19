@@ -98,6 +98,7 @@ body {
 .sekond {
   font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;  
   text-align: center;
   text-transform: capitalize;
   color: var(--navybluecolor);
@@ -109,9 +110,7 @@ body {
 .humenone {
   background-color: #ffffff;
 }
-.hsectionfour {
-  letter-spacing: 0.02em;  
-}
+
 /* footer */
 .footer {
   background-color: #2e2f42;
