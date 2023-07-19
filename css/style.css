@@ -52,7 +52,7 @@ body {
 }
 /* main */
 /* 1 section 1 */
-.section-one {
+.sectionone {
   background-color: #2e2f42;
 }
 .zagol-one {
@@ -88,5 +88,14 @@ body {
 }
 .paragraph-punkt-one {
   line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* footer */
+.footer {
+  background-color: #2e2f42;
+}
+.parafoot {
+  line-height: 1.5;
+  color: #F4F4FD;
   letter-spacing: 0.02em;
 }
