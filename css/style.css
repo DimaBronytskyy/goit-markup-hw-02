@@ -4,6 +4,8 @@ body {
   background-color: #ffffff;
 }
 :root {
+  --iris: #4D5AE5;
+
 }
 /* header */
 .nava {
@@ -13,7 +15,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--iris);
   text-decoration: none;
 }
 .stu-dio {
