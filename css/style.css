@@ -4,53 +4,48 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --iris: #4d5ae5;
-  --navyblue: #2e2f42;
-  --slate: #435545;
 }
-.link-logo {
-  color: var(--iris);
+
+.nava {
   font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-style: normal;
   font-weight: 800;
-  line-height: 1.17; /* 116.667% */
+  font-size: 18px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
   text-decoration: none;
 }
-.studio {
-  color: var(--navyblue);
+.stu-dio {
+  color: #2e2f42;
 }
-.linkli {
-  color: var(--navyblue);
-  font-weight: 500;
-  font-size: 16px;
-  font-style: normal;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
-.linkli:hover {
-  color: #404bbf;
-}
-.linkli:focus {
-  color: #404bbf;
+.list {
+  list-style: none;
 }
 .link {
   text-decoration: none;
 }
-.linkli:hover {
-  color: #404bbf;
-}
-.linkli:focus {
-  color: #404bbf;
-}
-.list {
-  list-style: none;
-  color: var(--slate, #434455);
+.spys {
+  font-weight: 500;
   font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.spys:hover {
+  color: #404bbf;
+}
+.spys:focus {
+  color: #404bbf;
+}
+.add-now {
+  color: #2e2f42;
+  font-style: normal;
+  list-style: none;
+}
+.add-now:hover {
+  color: #404bbf;
+}
+.add-now:focus {
+  color: #404bbf;
 }
