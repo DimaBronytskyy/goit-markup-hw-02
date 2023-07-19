@@ -5,7 +5,7 @@ body {
 }
 :root {
 }
-
+/* header */
 .nava {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -49,4 +49,32 @@ body {
 }
 .add-now:focus {
   color: #404bbf;
+}
+/* main */
+/* 1 section 1 */
+.section_1 {
+  background-color: #2e2f42;
+}
+.zagol-one {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.first-knopka {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer
+}
+.first-knopka:hover {
+  background-color: #404BBF;
+}
+.first-knopka:focus {
+  background-color: #404BBF;
 }
