@@ -39,9 +39,11 @@ body {
   color: #404bbf;
 }
 .add-now {
-  color: #2e2f42;
+  color: #434455;
   font-style: normal;
   list-style: none;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .add-now:hover {
   color: #404bbf;
