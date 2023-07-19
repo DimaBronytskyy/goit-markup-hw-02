@@ -102,6 +102,13 @@ body {
   text-transform: capitalize;
   color: var(--navybluecolor);
 }
+/* 1 section 4 */
+.sectionfour {
+  background-color: #f4f4fd;
+}
+.humenone {
+   background-color: #FFFFFF
+}
 /* footer */
 .footer {
   background-color: #2e2f42;
