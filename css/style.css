@@ -4,8 +4,8 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --iris: #4D5AE5;
-
+  --iriscolor: #4d5ae5;
+  --navybluecolor: #2e2f42;
 }
 /* header */
 .nava {
@@ -15,11 +15,11 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--iris);
+  color: var(--iriscolor);
   text-decoration: none;
 }
 .stu-dio {
-  color: #2e2f42;
+  color: var(--navybluecolor);
 }
 .list {
   list-style: none;
@@ -34,7 +34,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--navybluecolor);
 }
 .spys:hover {
   color: #404bbf;
@@ -95,12 +95,12 @@ body {
   color: #434455;
 }
 /* 1 section 3 */
-.sekond{
+.sekond {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: var(--navybluecolor);
 }
 /* footer */
 .footer {
