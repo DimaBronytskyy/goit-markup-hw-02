@@ -70,13 +70,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  cursor: pointer
+  cursor: pointer;
 }
 .first-knopka:hover {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 .first-knopka:focus {
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 /* 1 section 2 */
 .punkt-one {
@@ -84,11 +84,13 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:#2e2f42;
+  color: #2e2f42;
 }
 .paragraph-punkt-one {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 /* footer */
 .footer {
@@ -99,6 +101,6 @@ body {
 }
 .parafoot {
   line-height: 1.5;
-  color: #F4F4FD;
+  color: #f4f4fd;
   letter-spacing: 0.02em;
 }
