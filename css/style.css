@@ -110,7 +110,25 @@ body {
 .humenone {
   background-color: #ffffff;
 }
-
+/* 2  */
+.knopka {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--iriscolor);
+  background-color: #f4f4fd;
+  cursor: pointer;
+}
+.knopka:hover {
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+.knopka:focus {
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
 /* footer */
 .footer {
   background-color: #2e2f42;
