@@ -98,7 +98,7 @@ body {
 .sekond {
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0.02em;  
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: var(--navybluecolor);
@@ -122,12 +122,25 @@ body {
   cursor: pointer;
 }
 .knopka:hover {
-  color: #FFFFFF;
-  background-color: #404BBF;
+  color: #ffffff;
+  background-color: #404bbf;
 }
 .knopka:focus {
-  color: #FFFFFF;
-  background-color: #404BBF;
+  color: #ffffff;
+  background-color: #404bbf;
+}
+.name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--navybluecolor);
+}
+.text-li {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 /* footer */
 .footer {
